@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Pip Air Mouse</string>
+    <string name="status_not_initialized">Инициализация...</string>
+    <string name="status_bluetooth_disabled">Bluetooth выключен</string>
+    <string name="status_permission_required">Требуются разрешения Bluetooth</string>
+    <string name="status_ready">Готово к подключению</string>
+    <string name="status_advertising">Ожидание подключения хоста...</string>
+    <string name="status_connected_to">Подключено к %1$s</string>
+    <string name="status_disconnected">Отключено</string>
+    <string name="status_connecting">Подключение...</string>
+    <string name="status_error">Ошибка: %1$s</string>
+    <string name="status_hid_not_supported">Bluetooth HID Device не поддерживается устройством</string>
+
+    <string name="air_mouse_toggle_on">Air Mouse ВКЛ</string>
+    <string name="air_mouse_toggle_off">Air Mouse ВЫКЛ</string>
+    <string name="air_mouse_running_desc">Гироскоп активен, курсор управляется движением</string>
+    <string name="air_mouse_stopped_desc">Гироскоп остановлен для экономии батареи</string>
+
+    <string name="button_left_click">Левый клик</string>
+    <string name="button_right_click">Правый клик</string>
+    <string name="button_middle_click">Колёсико</string>
+    <string name="button_scroll_up">Прокрутка вверх</string>
+    <string name="button_scroll_down">Прокрутка вниз</string>
+
+    <string name="settings_title">Настройки чувствительности</string>
+    <string name="settings_sensitivity">Чувствительность: %1$.1fx</string>
+    <string name="settings_deadzone">Мертвая зона (фильтр тремора): %1$.2f рад/с</string>
+    <string name="settings_smoothing">Сглаживание EMA: %1$.2f</string>
+    <string name="settings_invert_x">Инвертировать X</string>
+    <string name="settings_invert_y">Инвертировать Y</string>
+    <string name="settings_recenter">Сбросить смещение / Центр</string>
+
+    <string name="guide_title">Как подключить к ПК / Mac</string>
+    <string name="guide_step_1">1. Включите Bluetooth на вашем компьютере (Mac или Windows ПК).</string>
+    <string name="guide_step_2">2. В приложении нажмите «Сделать видимым» или включите поиск в настройках Bluetooth ПК.</string>
+    <string name="guide_step_3">3. Выберите «Pip Air Mouse» в списке доступных Bluetooth-устройств на ПК.</string>
+    <string name="guide_step_4">4. После сопряжения статус изменится на «Подключено», включите Air Mouse и управляйте курсором!</string>
+
+    <string name="tab_controller">Пульт</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="tab_logs">Журнал событий</string>
+
+    <string name="btn_make_discoverable">Сделать видимым</string>
+    <string name="btn_reconnect">Перезапустить HID</string>
+    <string name="btn_clear_logs">Очистить журнал</string>
+    <string name="btn_test_mode">Тестовый режим (Без ПК)</string>
+
+    <string name="test_mode_title">Эмуляция курсора на экране</string>
+    <string name="test_mode_desc">Проверьте отклик гироскопа прямо на телефоне</string>
+</resources>

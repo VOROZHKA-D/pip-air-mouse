@@ -1,0 +1,6 @@
+{
+  "name": "Pip Air Mouse",
+  "description": "Превратите смартфон в Bluetooth гироскопическую мышь (HID Air Mouse) для управления ПК или Mac.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
